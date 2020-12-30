@@ -8,22 +8,20 @@ import BasicUsage from './components/BasicUsage.vue'
 import Props from './components/Props.vue'
 import Events from './components/Events.vue'
 import Styling from './components/Styling.vue'
-import BATLOT from './components/BATLOT.vue'
+
+import * as batlote from './components/batlote'
 
 Vue.use(VueRouter)
 Vue.use(VueSidebarMenu)
 
 const router = new VueRouter({
   routes: [
+    ...batlote.Routes,
+    /*
     {
-      path: '/',
+      path: '/Installation',
       name: 'Installation',
       component: Installation
-    },
-    {
-      path: '/batlot',
-      name: '1. Biếng ăn tâm lý: nguyên nhân',
-      component: BATLOT
     },
     {
       path: '/basic-usage',
@@ -46,15 +44,11 @@ const router = new VueRouter({
       component: Styling
     },
     {
-      path: '/page',
-      name: 'DropdownPage',
-      component: Styling
-    },
-    {
       path: '/page/sub-page-1',
       name: 'SubPage01',
       component: Events
     }
+    */
   ]
 })
 

@@ -5,19 +5,10 @@
   >
     <div class="demo">
       <div class="container">
-        <h1 v-text="this.$route.name" />
-        <div>
-          Select theme:
-          <select v-model="selectedTheme">
-            <option
-              v-for="(theme, index) in themes"
-              :key="index"
-              :value="theme.input" >
-              {{ theme.name }}
-            </option>
-          </select>
-        </div>
-        <hr style="margin: 50px 0px;border: 1px solid #e3e3e3;">
+        <a :href="this.$route.meta['link']" target="_blank">
+          <h1 v-text="this.$route.name" style="float:left;"/>
+        </a>
+        <hr style="margin: 50px 0;border: 1px solid #e3e3e3;clear: both">
         <router-view />
       </div>
       <sidebar-menu
@@ -38,27 +29,32 @@
 </template>
 
 <script>
+import * as batlote from './components/batlote/index'
+import Start from './components/batlote/Start'
+import Styling from './components/Styling'
 const separator = {
   template: `<hr style="border-color: rgba(0, 0, 0, 0.1); margin: 20px;">`
 }
 
 export default {
   name: 'App',
+  components: { Styling, Start },
   data () {
     return {
       menu: [
-        {
+        batlote.Menu,
+/*        {
           header: true,
           title: 'Getting Started',
           hiddenOnCollapse: true
         },
         {
-          href: '/',
+          href: '/Installation',
           title: 'Installation',
           icon: 'fa fa-download'
         },
         {
-          href: '/batlot',
+          href: '/batlotes',
           title: '1. Biếng ăn tâm lý: nguyên nhân',
           icon: 'fa fa-code'
         },
@@ -87,6 +83,7 @@ export default {
           title: 'Styling',
           icon: 'fa fa-palette'
         },
+
         {
           component: separator
         },
@@ -165,6 +162,7 @@ export default {
             }
           ]
         }
+        */
       ],
       collapsed: false,
       themes: [
@@ -210,6 +208,16 @@ export default {
 </script>
 
 <style lang="scss">
+
+/*
+@import 'public/css/3apCvHkKCyn.css';
+@import 'public/css/4By0GIBba1e.css';
+@import 'public/css/kJ7WnVRGu-H.css';
+@import 'public/css/pc2FxkxdgYE.css';
+@import 'public/css/rCbebgOnCq3.css';
+@import 'public/css/ymFE5_08d4Y.css';
+*/
+
 @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600');
 
 body,
@@ -248,7 +256,7 @@ body {
 }
 
 .demo {
-  padding: 50px;
+  padding: 15px;
 }
 
 .container {

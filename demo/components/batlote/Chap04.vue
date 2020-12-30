@@ -1,0 +1,230 @@
+<template>
+  <div>
+    <div class="_39k5 _5s6c">
+      <div class="_2cuy _3dgx _2vxa"><span class="_4yxo _4yxp">Nguyên tắc của phương pháp không ép là gì?</span> Nguyên tắc chỉ có 1, ko ép, con ko ăn
+        thì đói. Đói thì cho gì cũng sẽ ăn. Chỉ cần mẹ nhất quán, mời con ăn khi con CÓ DẤU HIỆU ĐÓI, thì con sẽ hiểu khi đói cần phải ăn
+        mới hết đói, hết khó chịu.
+      </div>
+      <div class="_2cuy _3dgx _2vxa"><span class="_4yxo _4yxp">Tại sao khi bé biếng ăn tâm lý lại ko ăn khi bị bỏ đói?</span> Vì bé sợ hãi mỗi lần
+        đến bữa ăn. Khi sợ hãi cơ thể sẽ có phản ứng chiến hay chạy (fight or flight). Cơ chế này làm dạ dày và ruột ngưng hoạt động nên bé
+        ko ăn nữa.
+      </div>
+      <div class="_2cuy _3dgx _2vxa"><span class="_4yxo _4yxp">Tại sao phải giấu thức ăn?</span> Vì khi bé nhìn thấy sẽ nghĩ mẹ vẫn ép ăn. Ko ăn
+        là giấu bình giấu thức ăn đi.
+      </div>
+      <div class="_2cuy _3dgx _2vxa">1. <span class="_4yxo">Có cần cai ti mẹ, cai dặm không</span>? Có. Khi bé biếng ăn, hoặc tập ti bình, mà bạn
+        cho các loại thức ăn khác, bé sẽ có lựa chọn và bé sẽ chọn thứ mình muốn chứ ko ăn bình theo ý mẹ. Các bé biếng ăn nếu cho ăn
+        dặm trong thời gian này, sẽ có sức nhịn đói để ko ăn sữa. Nếu bạn vô tình ép bé ăn dặm thì bé sẽ bị sợ ăn đối với việc ăn dặm
+        luôn. Thậm chí là uống nước, nếu bạn ép bé uống nước bé cũng sẽ biếng uống nước. Vì vậy trong quá trình tập ti bình cần cai tất
+        cả.
+      </div>
+      <div class="_2cuy _3dgx _2vxa">2. <span class="_4yxo">Bao giờ thì cho bé ăn dặm lại</span>? Khi bé hoàn toàn không sợ ăn nữa, và thái độ ăn
+        của bé là 4 hoặc 5 điểm (thông thường 1-2 tuần nếu mẹ không làm sai luật mời ăn).
+      </div>
+      <div class="_2cuy _3dgx _2vxa">3. <span class="_4yxo">Khi nào cho bé ti mẹ lại</span>? Không nên, bé nào tinh sẽ chọn ti mẹ bỏ bình tiếp.
+      </div>
+      <div class="_2cuy _3dgx _2vxa">4. <span class="_4yxo">Khi nào bé sẽ ăn nhiều lên</span>? Mỗi khi mẹ thay đổi LSH của con, con sẽ mất 1 tuần để
+        tự điều chỉnh lượng thức ăn trong ngày. Ví dụ dễ hiểu: tối mẹ ăn 1 bát cơm. Đêm đói sẽ dậy ăn thêm. Hôm sau mẹ biết 1 bát cơm ko đủ
+        no đến bữa ăn sau (bữa sáng), mẹ sẽ ăn 2 bát cơm. Nếu vẫn chưa đủ no mẹ sẽ ăn 3 bát cơm vào ngày kế. Ăn đến khi đủ no để ngủ thẳng
+        đến bữa ăn kế tiếp.
+      </div>
+      <div class="_2cuy _3dgx _2vxa">5. <span class="_4yxo">Loại bình nào là tốt nhất</span>? Bình nào cũng ko quan trọng, quan trọng là mẹ có ép
+        bé ăn hay không. Con của mình khi mới sinh ăn bình Dr. Brown. Trong quá trình bị BATL, mẹ đổi 10 loại bình khác nhau. Mỗi lần đổi bình
+        bé ăn ổn, mẹ ép, bé lại bỏ ăn, mẹ lại thay bình mới. Hiện giờ bé ăn bình Dr. Brown sau khi hết sợ ăn.
+      </div>
+      <div class="_2cuy _3dgx _2vxa">6. <span class="_4yxo">Sữa mẹ hay sữa công thức</span>? Nên dùng 1 loại sữa khi bắt đầu. Hoặc sữa mẹ, hoặc
+        sữa công thức. Không thay đổi mùi vị sữa trong quá trình tập ăn.
+      </div>
+      <div class="_2cuy _3dgx _2vxa">7. <span class="_4yxo">Có nên làm theo lịch sinh hoạt ko</span>? Tuỳ trường hợp. Trong vài ngày đầu bé sẽ bỏ
+        ăn nhiều bữa, sẽ khó theo được lịch sinh hoạt. Giấc ngủ nên giữ nguyên theo LSH, đọc bài 5, giấc ăn phải tuỳ theo luật mời ăn (dựa
+        vào dấu hiệu đói và cả thời gian 3-4h). Sau khi thái độ ăn đã khá hơn, hãy cho bé theo sát lsh nếu được. Nên làm mọi cách cho bé
+        ngủ, vì thiếu ngủ sẽ ăn kém.
+      </div>
+      <div class="_2cuy _3dgx _2vxa">8. <span class="_4yxo">Bé tập ăn và ăn 1 bữa bỏ 1 bữa</span>: đây là bình thường. Vì bé sợ ăn, bé sẽ ăn khi
+        nào đủ đói. Nếu bé ăn bữa sáng, bé sẽ đói nhưng không quá đói để vượt qua sự sợ hãi và ăn vào buổi trưa. Bé có khả năng bỏ hoặc
+        ăn rất ít vào bữa trưa. Đến tối bé sẽ quá đói, và đủ đói (vượt qua nỗi sợ ăn) để ăn tối.
+      </div>
+      <div class="_2cuy _3dgx _2vxa">9. <span class="_4yxo">Các bé càng lớn khả năng nhịn ăn càng tốt</span>. Nên tập cho bé càng sớm càng tốt.
+      </div>
+      <div class="_2cuy _3dgx _2vxa">10. <span class="_4yxo">Tại sao bé lại nghịch bình đẩy bình/kéo bình</span>: khi đã bớt sợ, bé biết mình có
+        quyền lựa chọn ăn hoặc không ăn, bé sẽ nghịch bình để thử mẹ xem mẹ có ép bé không. Nhưng đây là thói xấu, mẹ hãy ngưng bữa để bé
+        hiểu là mẹ ko chấp nhận bé ăn như thế.
+      </div>
+      <div class="_2cuy _3dgx _2vxa"><span class="_4yxo">11. Thời gian mời bình:</span></div>
+      <ul class="_5a_q _5yj1" dir="ltr">
+        <li class="_2cuy _509q _2vxa">Sáng dậy cần chờ tối đa 1 tiếng. Trong khoảng thời gian này khi nào bé đói có thể mời. Nếu ko đói, chờ 1 tiếng hãy mời
+          bình.
+        </li>
+        <li class="_2cuy _509q _2vxa">Bữa sáng là bữa sữa cuối cùng bé ăn nhiều lên. Nhiều bé ăn ít hoặc bỏ hẳn bữa này do ban đêm cơ thể tiết ra chất làm giảm
+          đói để bé ngủ ngon. Có khi bé sẽ bỏ bữa sáng và trưa trong 4 5 ngày đầu tiên tập ăn. Có khi bé ăn nhiều hôm nay và ăn ít ngày mai.
+        </li>
+        <li class="_2cuy _509q _2vxa">Trong ngày:</li>
+        <li class="_2cuy _509q _2vxa">Ví dụ 8h mời lần 1. Thì cữ này tính từ 8h. Nếu 8h mời, 10h mẹ mời nhầm, thì tính cữ này 10h, chờ 3-4 tiếng từ 10h mới
+          được mời, cho nên phải cho con ngủ tốt tránh nhầm gắt ăn với gắt ngủ.
+        </li>
+        <li class="_2cuy _509q _2vxa">8h mời, Cữ kế tiếp phải chờ 3-4 tiếng, tức là 11h-12h. Trong khoảng 11h-12h khi nào bé đói có thể mời bình. Nếu bé không
+          đói, mời lúc 12h. Giãn cữ tối đa là 4 tiếng.
+        </li>
+        <li class="_2cuy _509q _2vxa">Nếu bé khóc mà mẹ ko dỗ được (bằng mọi cách, ti giả, đi chơi, tv, điện thoại, ngủ v.v.) thì có thể mời sớm hơn 3-4 tiếng
+          từ cữ trước.
+        </li>
+        <li class="_2cuy _509q _2vxa">Nếu ăn hơn 300ml/ngày. Đêm để bé tự tỉnh dậy đòi ăn. Nếu tỉnh dậy quá sớm từ cữ trước. Dỗ ngủ. Nếu tỉnh dậy mà đã đủ 3-4h
+          từ cữ trước, mời ăn. Nếu tỉnh dậy sớm mà ko dỗ được bé nín khóc/ngủ lại, mời bình.
+        </li>
+        <li class="_2cuy _509q _2vxa">Trong trường hợp ban đêm bé lăn lộn khó chịu, đã đủ 4h, mẹ có thể mở đèn ngủ xem có tỉnh ko? Nếu mắt
+          vẫn nhắm mà cứ lăn lộn thì có thể mời bình. Nên xem bài 9 coi tuổi bé nên có bao nhiêu cữ đêm. Nếu ngày ăn khá rồi, đã lớn hơn
+          7th và 6kg, cai đêm được thì cai luôn.
+        </li>
+        <li class="_2cuy _509q _2vxa"><span class="_4yxo">Nếu ăn ít hơn 300ml/ngày: chờ tối đa 4 tiếng từ cữ trước, nếu bé tỉnh dậy thì mời bình. Nếu ko tỉnh dậy thì cho bú ngủ. Nếu ngủ cũng ko chịu bú bình phải cho ti mẹ cho đủ số. Dưới 300ml/ngày sẽ nguy hiểm vì thiếu nước/hạ đường huyết/lả.</span>
+        </li>
+        <li class="_2cuy _509q _2vxa">Nếu sau 4 5 ngày mà vẫn ăn ít thái độ ko tốt, thì có khả năng mẹ đã làm sai ở đâu đó mà ko nhận ra. Cũng có thể bé có
+          bệnh nền làm khó chịu mỗi khi ăn (dị ứng hoặc trào ngược). Mẹ nên ngưng tập bình tránh bé gặp nguy hiểm. Cho bé ăn trở lại bằng cách cũ.
+        </li>
+        <li class="_2cuy _509q _2vxa"><span class="_4yxo">Trong vài ngày đầu, lịch sh của bé sẽ ko đi vào nếp được. Mẹ ko cần cố gắng bắt bé theo đúng lsh. Vì sẽ có bữa bé ăn quá ít và đòi ăn cữ sau sớm hơn (nếu quá sớm chỉ nên cho ăn khi con khóc quá mẹ ko thể dỗ nín).</span>
+        </li>
+        <li class="_2cuy _509q _2vxa">Sau khi bé đã ăn ngoan hơn, mẹ có thể sắp lsh và giãn cữ theo độ tuổi (vẫn cần nương theo nhu cầu của bé).</li>
+        <li class="_2cuy _509q _2vxa">Cần giữ bé ngủ tốt bằng mọi cách. Bé mệt sẽ ăn kém. Nếu giờ ăn trùng giờ ngủ nên cho ngủ trước. Đói sẽ dậy ăn.</li>
+        <li class="_2cuy _509q _2vxa">Ban ngày ăn phải tỉnh táo. Ăn xong phải thức chơi 1 xíu mới ngủ. Ban đêm nếu bé dậy đòi ăn có thể mở đèn ngủ, cho bé nhìn
+          bình, đang ăn mà ngủ luôn cũng được.
+        </li>
+      </ul>
+      <div class="_2cuy _3dgx _2vxa"><span class="_4yxo">12. Cách mời bình:</span></div>
+      <div class="_2cuy _3dgx _2vxa">Giấu bình sau lưng. Bế con vào vị trí ăn. Cho con nhìn bình và chờ phản ứng. Nếu từ chối, giấu bình và
+        bế con ra khỏi vị trí tư thế ăn (hoặc phòng khác). Chờ lần mời 2. - dấu hiệu từ chối xem bài 2
+      </div>
+      <div class="_2cuy _3dgx _2vxa">Cách cho ăn:<br>Bỏ con qua phòng khác!!!<br>Đi hâm sữa thử sữa nếm hết đi.<br>Bế con vào vị trí và tư thế ăn (nó ko thích
+        khăn thì dẹp đi, thử tư thế nào mẹ chưa ép nó thì nó dễ hợp tác hơn vì tư thế cũ nó sợ). Ko bế đi lại, ko đung đưa võng. Nằm/ngồi im 1 chỗ thôi. Nằm gối
+        thì nằm gối ngủ của mẹ ấy (đừng quá cao), gối em bé thấp quá.<br>Cho nhìn bình xem phản ứng.<br>Nếu từ chối, hoặc mút rồi nhả thì GIẤU BÌNH NGAY ĐI!!!!
+        Ko có quơ bình trước mặt con nữa.<br>Bế con ra khỏi vị trí tư thế ăn!!!!!<br>Vỗ ợ lau mặt gì thì lúc này lau. Có ai vừa đút thìa vào mồm vừa lau mặt
+        ko???????
+      </div>
+      <div class="_2cuy _3dgx _2vxa">Các bé sợ ăn nên mời càng ít càng tốt. 3 lần 1 cữ được tính là ép ăn. Một vài bé nhạy cảm thì mời 2
+        lần đã là ép ăn. Mình biết hiện giờ thịnh hành mời 3 cơ hội (việc này chỉ tốt nếu bé ko bị sợ ăn thôi) nên các mom ráng theo đúng
+        luật chỉ mời 2 lần (hoặc 1 lần nếu bé nhạy cảm).
+      </div>
+      <div class="_2cuy _3dgx _2vxa"><span class="_4yxo">Thời gian giữa 2 cữ khi mời bình: là 3h tới 4h từ cữ trước</span></div>
+      <ul class="_5a_q _5yj1" dir="ltr">
+        <li class="_2cuy _509q _2vxa">Không phải 3h mời 1 lần &lt;= bảo đảm biếng ăn, bé nhà mình 3h 1 lần từ lúc 1 tháng đã biếng ăn nhé.</li>
+        <li class="_2cuy _509q _2vxa">Không phải 4h mời 1 lần &lt;= bỏ đói vô ích trong những hôm đầu tập ăn.</li>
+        <li class="_2cuy _509q _2vxa">Thời gian mời bình là khoảng thời gian từ 3 tới 4h sau cữ ăn trước đó.</li>
+        <li class="_2cuy _509q _2vxa">ví dụ: 8h mời, thì cữ này tính từ 8h. Cữ sau sẽ nằm trong khoảng 11h tới 12h, đói lúc nào mời lúc đó.
+        </li>
+        <li class="_2cuy _509q _2vxa">8h mời, 9h đói ko mời</li>
+        <li class="_2cuy _509q _2vxa">8h mời, 10h đói ko mời</li>
+        <li class="_2cuy _509q _2vxa">8h mời 10h45 đói ko mời</li>
+        <li class="_2cuy _509q _2vxa">8h mời, 11h đói thì mời vì đã đủ 3h từ 8h</li>
+        <li class="_2cuy _509q _2vxa">8h mời, 11h ko đói thì ko mời (3 tới 4h, đói mới được mời)</li>
+        <li class="_2cuy _509q _2vxa">8h mời, 11h30 ko đói thì ko mời (3 tới 4h, đói mới được mời)</li>
+        <li class="_2cuy _509q _2vxa">8h mời, 12h ko đói, phải mời (đã đủ 4h, dãn cữ tối đa 4h, phải mời)</li>
+        <li class="_2cuy _509q _2vxa">Bất kỳ khi nào con khóc ko dỗ được thì nên mời. Dỗ bằng mọi cách (cho đi chơi, tắm, ngủ, ca nhạc, tv, phone
+          v.v.)
+        </li>
+        <li class="_2cuy _509q _2vxa">Khi nào con ăn ngoan các cữ, mẹ nên dãn cữ theo độ tuổi. Tối đa 4h cho trẻ dưới 1 tuổi.</li>
+      </ul>
+      <div class="_2cuy _3dgx _2vxa"><span class="_4yxo">13. Khi nào bỏ lần mời 2: </span>Khi lần 2 bé luôn luôn ăn ít hơn 20ml trong tất cả các cữ
+      </div>
+      <div class="_2cuy _3dgx _2vxa"><span class="_4yxo">14. Nếu giờ ăn trùng giờ ngủ: </span></div>
+      <div class="_2cuy _3dgx _2vxa">Mẹ nên cho bé ngủ trước thay vì mời bình. Khi bé mệt sẽ ăn kém. Không cần gọi con dậy cho dù đã quá 4h từ
+        cữ trước, để con đói sẽ tự dậy đòi ăn (nap/ngủ đêm).
+      </div>
+      <div class="_2cuy _3dgx _2vxa">Trừ trường hợp ban ngày con ăn quá ít, thì con ngủ li bì ko dậy là 1 dấu hiệu của đói lả. Nếu con ăn ít
+        hơn 300ml/ngày, mẹ nên chờ tối đa 4h từ cữ trước, con ngủ ko dậy mẹ có thể lén cho ăn để đủ 300ml. Luôn luôn mời bình trước, nếu ngủ
+        mà ko ăn bình thì cho ti mẹ.
+      </div>
+      <div class="_2cuy _3dgx _2vxa">Nếu ngủ, mời 2 lần rồi, ăn bình rồi, mà vẫn ko đủ 300ml, mẹ chờ cữ kế tiếp (3-4h sau), con tỉnh thì mời
+        bình, con ko tỉnh dậy thì lén cho ăn.
+      </div>
+      <div class="_2cuy _3dgx _2vxa"><span class="_4yxo">15. Tại sao mời 2 lần</span>? Vì mẹ có 2 ti <span class="_47e3 _5mfr"
+                                                                                                                 title="Biểu tượng cảm xúc wink"
+      ><img class="img" height="18" role="presentation" src="https://static.xx.fbcdn.net/images/emoji.php/v9/t78/2/18/1f609.png" width="18" alt=""><span
+        aria-hidden="true" class="_7oe"
+      >;)</span></span>. Ti mẹ hơi ít sữa, con bú 1 bên chưa đã thèm, mẹ vỗ ợ xong mời bên còn lại. Nếu ti mẹ nhiều sữa, con bú no 1 bên rồi,
+        mời bên còn lại con từ chối, hoặc ăn lấy lệ ăn ít, bỏ luôn, cho bú 1 bên thôi (tức là mời 1 lần thôi), cữ sau cho bú bên kia trước.
+      </div>
+      <div class="_2cuy _3dgx _2vxa"><span class="_4yxo">16. Tại sao cai dặm cai ti mẹ? </span>Vì có lựa chọn tốt hơn thì ăn bình làm gì?</div>
+      <div class="_2cuy _3dgx _2vxa"><span class="_4yxo">17. Tại sao 1 loại sữa 1 loại bình 1 nhiệt độ</span>? Các bé tinh ý, ko thích sự thay đổi,
+        sữa mùi khác ko thích, nhiệt độ khác ko thích. Mẹ bắt đầu thì phải loại trừ tất cả khả năng con có thể bỏ ăn. Bình thì mỗi bình
+        1 cách mút khác nhau, nên chọn 1 loại thôi. Núm phải đúng, núm sai, to quá hoặc bé quá con đều ko ăn được. Ăn ngoan rồi thì có thể
+        đổi bình đổi sữa v.v., con có thể bỏ 1 2 bữa khi mẹ đổi nhưng sẽ ăn ngoan lại sau đó.
+      </div>
+      <div class="_2cuy _3dgx _2vxa"><span class="_4yxo">18. Tại sao giờ ăn trùng giờ ngủ thì cho ngủ trước</span>? Vì mệt ăn kém. Mệt vs đói thì
+        mệt thắng, con sẽ chọn ngủ. Có mời cũng ko ăn hoặc ăn ít. Phí 1 lần mời.
+      </div>
+      <div class="_2cuy _3dgx _2vxa"><span class="_4yxo">19. Có nên dreamfeed ko</span>? Mình ko ủng hộ dreamfeed trừ khi con ăn quá ít, ít hơn 300ml
+        (khoảng 200ml đổ xuống dễ lả lắm), ngủ ko dậy, thì đây là ngủ li bì, dấu hiệu của đói lả. Phải lén cho ăn, bình ko ăn thì cho ti
+        mẹ. Nếu mời cữ này ko ăn, thì mẹ chờ con tự dậy hoặc chờ cữ sau. Thường nếu mẹ làm đúng, con phải ăn khoảng 300ml.
+      </div>
+      <div class="_2cuy _3dgx _2vxa"><span class="_4yxo">20. Dreamfeed ảnh hường gì? </span>Ảnh hưởng đến sức phán đoán của con về lượng thức ăn
+        con cần. Khi bú ngủ, khả năng là con chưa đói (leptin&gt;ghrelin, con còn năng lượng dự trữ) mẹ có mời con cũng ăn ít hoặc ko ăn.
+      </div>
+      <div class="_2cuy _3dgx _2vxa"><span class="_4yxo">21. Tại sao 300ml?</span> Liên quan đến hạ đường huyết. Khi đường huyết tụt xuống 1 mức nào
+        đó, thì cơ thể tiết ra ghrelin làm người cảm thấy đói. Tụt đến 1 mức báo động, thì sẽ tự tìm thức ăn để bảo vệ bản thân khỏi
+        nguy hiểm. 300ml là con số tối thiểu để cơ thể hoạt động, các bé ko bị ép nữa, sẽ tự ăn đủ 300ml. Nếu mẹ làm sai, vô tình ép con,
+        thì con sẽ ăn ít hơn 300ml trong ngày đầu. Ko sửa sai thì sẽ ăn ít hoài luôn. Nguy hiểm tính mạng.
+      </div>
+      <div class="_2cuy _3dgx _2vxa"><span class="_4yxo">22. Tại sao đói, cho bình lại ăn ít</span>? Vì khi sợ ăn, căng thẳng kéo dài, cơ thể có
+        phản ứng chiến hay chạy, phản ứng này làm hệ tiêu hoá ngưng hoạt động. Thành ra ăn có vài ml là nhả ko ăn nữa vì nhu động dạ dày
+        hoàn toàn ngừng lại rồi.
+      </div>
+      <div class="_2cuy _3dgx _2vxa"><span class="_4yxo">23. Sợ ăn kéo dài nguy hiểm đến đâu</span>? Cơ thể từ chối chấp nhận thức ăn. Sợ hãi làm
+        cho con ăn ít mà vẫn ói ra. Mẹ thay vì dãn cữ đúng độ tuổi lại chia nhỏ bữa ăn vì lầm tưởng con bị trào ngược, dạ dày con nhỏ ko
+        ăn được lượng lớn thức ăn. Mời quá nhiều cữ, mời quá nhiều lần, kéo dài sợ hãi ko bao giờ hết.
+      </div>
+      <div class="_2cuy _3dgx _2vxa"><span class="_4yxo">24. Tại sao bữa sáng lại ăn ít/bỏ ă</span>n? Vì khi ngủ cơ thể tiết ra leptin, làm giảm
+        đói và ngủ ngon. Bé sợ ăn, sáng ra chất này vẫn còn tồn tại, con ko thấy đói, ko ăn, ăn ít. Đây cũng là lý do sáng dậy cần chờ
+        khoảng 1 tiếng, khi nào đói mới cho ăn để con liên hệ việc đói = có bình sữa.
+      </div>
+      <div class="_2cuy _3dgx _2vxa"><span class="_4yxo">25. Khi nào hết sợ ăn</span>? Bài 2 có ghi bảng chấm điểm thái độ ăn, khi tất cả các bữa
+        ăn con đều được 4 hoặc 5 điểm trong 3 hôm thì con hết sợ ăn.
+      </div>
+      <div class="_2cuy _3dgx _2vxa"><span class="_4yxo">26. Khi nào ăn nhiều lên</span>? Sau khoảng 1-2 tuần, thái độ ăn tốt con sẽ tự tăng lượng
+        sữa lên.
+      </div>
+      <div class="_2cuy _3dgx _2vxa"><span class="_4yxo">27. Khi hết sợ ăn</span>: Bữa sáng và tối ăn nhiều nhất trong ngày. Sáng ăn nhiều vì ngủ
+        cả đêm đói. Tối ăn nhiều vì để tích trữ ngủ xuyên đêm. Khi hết sợ ăn, buổi sáng con dậy là sẽ đòi ăn ngay và luôn. Lý giải cho việc
+        này là vì trong quá trình tập ăn, giờ ngủ trùng giờ ăn thì mẹ luôn luôn để con ngủ khi con mệt, đói sẽ dậy ăn. Ban đêm ko cho
+        dreamfeed bú ngủ, mà khi con ngủ đêm cảm thấy đói bụng, con dậy khóc đòi ăn mẹ mới cho ăn. Mẹ ko nên nhìn vào số lượng sữa mỗi bữa.
+        Tổng sữa 1 ngày ko xê dịch nhiều tức là con đã ăn ổn định rồi.
+      </div>
+      <div class="_2cuy _3dgx _2vxa"><span class="_4yxo">28. Khi nào nên thêm sữa vào bình</span>: Khi mà cữ này con luôn luôn bú sạch bình, vẫn còn
+        thòm thèm mút bình không, thì sau 2 3 hôm mẹ nên tăng sữa trong bình, tăng sớm quá hay tự tiện tăng chỉ phí sữa mà thôi.
+      </div>
+      <div class="_2cuy _3dgx _2vxa"><span class="_4yxo">29. Ăn bao nhiêu là đ</span>ủ? Ông hàng xóm ăn 10 bát cơm, mẹ có ăn 10 bát ko? Con muốn ăn
+        nhiêu kệ con.
+      </div>
+      <div class="_2cuy _3dgx _2vxa"><span class="_4yxo">30. Biếng ăn sinh lý là sao</span>? Con có thái độ ăn tốt nhưng ăn rất ít. Nên đem đi khám
+        bác sỹ.
+      </div>
+      <div class="_2cuy _3dgx _2vxa"><span class="_4yxo">31. Giai đoạn tăng trưởng nhanh:</span> giống như dậy thì vậy. Con có thể khó ở, khó ngủ,
+        ăn nhiều, ngủ nhiều, nói chung là loạn xạ ngậu do hormone. Nếu trong thời gian này, có khi nào con đã ăn rồi. Nhưng 1 hoặc 2 tiếng sau
+        lại khóc không thể dỗ được bằng mọi cách (tv, iphone, ca nhạc, tắm, ngủ, ti giả v.v.) thì cho ăn luôn. Đây là cluster feed. Ăn cữ dồn
+        dập vì đói, cần thêm năng lượng để tăng trưởng. Giai đoạn này con sẽ lớn khá nhanh. Bài cũng có ghi, khi khóc ko thể dỗ được, cho ăn
+        bất kỳ lúc nào dù chưa đến đúng cữ. Nhưng đừng nhầm với gắt ngủ nhé. xem bài 20 tín hiệu ngủ.
+      </div>
+      <div class="_2cuy _3dgx _2vxa"><span class="_4yxo">32. Sơ bộ về trào ngược:</span> nó là ợ nóng. Ít tháng thì cơ ngăn giữa thực quản và dạ
+        dày chưa hoàn chỉnh, bé bú xong ợ sữa lẫn acid lên họng, acid làm cháy thực quản và họng, mỗi lần ăn là mỗi lần bị đau nên con bỏ
+        ăn, sợ ăn. Bệnh này cần có thuốc, nếu ko thì ko chữa được chứng sợ ăn.
+      </div>
+      <div class="_2cuy _3dgx _2vxa"><span class="_4yxo">33. Trào ngược im lặng</span>: con ợ lên và nuốt xuống ngay, miệng hay nhai nhai cặn sữa. Sau
+        khi con ăn mẹ có thể nghe con nuốt ực ực mà ko hề thấy gì trong mồm con (ợ sữa lên miệng xong lại nuốt ngay lập tức nên nghe ực ực)
+      </div>
+    </div>
+  </div>
+</template>
+
+<script>
+export default {
+  name: 'Chap04',
+  route () {
+    return {
+      path     : '/batlote/chap-04',
+      name     : '4. Thắc mắc thường có',
+      component: this,
+      meta     : {
+        link : 'https://bit.ly/3n1jyTl',
+        _link: 'https://www.facebook.com/notes/bi%E1%BA%BFng-%C4%83n-t%C3%A2m-l%C3%BD-%E1%BB%9F-tr%E1%BA%BB-em/4-th%C4%83%CC%81c-m%C4%83%CC%81c-th%C6%B0%C6%A1%CC%80ng-co%CC%81/224479108992023/',
+      },
+    }
+  },
+}
+</script>

@@ -26,7 +26,7 @@
     "admin-sidebar"
   ],
   "scripts": {
-    "dev": "cross-env NODE_ENV=development webpack-dev-server --hot --open --config webpack.config.dev.js",
+    "dev": "cross-env NODE_ENV=development webpack-dev-server --hot --open --config webpack.config.dev.js --host 0.0.0.0",
     "build:demo": "cross-env NODE_ENV=production webpack --progress --hide-modules --config webpack.config.dev.js",
     "build:lib": "cross-env NODE_ENV=production webpack --progress --hide-modules --config webpack.config.prod.js",
     "lint": "eslint --ext .js,.vue ."
