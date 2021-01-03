@@ -27,15 +27,15 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "e723539afdc44bfb1b7bcc60293b6a4f"
+    "revision": "eca159ec5ab9c532972632379596b83b"
   },
   {
     "url": "architecture.png",
     "revision": "9a93cf6cea38878e19c5816d1af28b17"
   },
   {
-    "url": "assets/css/0.styles.46fd2da8.css",
-    "revision": "472d42fd2530c6a98e9d2415f07fd272"
+    "url": "assets/css/0.styles.74eb1b78.css",
+    "revision": "ab79cde3acf36f36b82059161c86bcfe"
   },
   {
     "url": "assets/img/search.83621669.svg",
@@ -46,8 +46,8 @@ self.__precacheManifest = [
     "revision": "2654d158101695a6892ef786a2c3e4dc"
   },
   {
-    "url": "assets/js/10.63efb848.js",
-    "revision": "1768fb0e2c79a1095d7aa2ef9fdc0253"
+    "url": "assets/js/10.8d192416.js",
+    "revision": "e7338880a1b630a96d81801612348d23"
   },
   {
     "url": "assets/js/11.4675fa16.js",
@@ -66,12 +66,12 @@ self.__precacheManifest = [
     "revision": "470ac0c9731af0b347a1f8010c8f1bc1"
   },
   {
-    "url": "assets/js/15.edc189b0.js",
-    "revision": "57254c99331e3248716ecb29533e6082"
+    "url": "assets/js/15.13733896.js",
+    "revision": "d15ae84ccdf173b0c0b699dc46798ce6"
   },
   {
-    "url": "assets/js/16.1c255857.js",
-    "revision": "b32038a6f3f4be814a9663c6af2a23c7"
+    "url": "assets/js/16.95a44d4a.js",
+    "revision": "cedd59a04dd78a687fc6051f9a9691fb"
   },
   {
     "url": "assets/js/17.b97a6638.js",
@@ -138,16 +138,16 @@ self.__precacheManifest = [
     "revision": "ead5280b61bdf57840c7ebc5235ac222"
   },
   {
-    "url": "assets/js/33.04318839.js",
-    "revision": "87f8ea3accaa43b7752c67046f449732"
+    "url": "assets/js/33.80597778.js",
+    "revision": "4da484366f1a0271d43c1ec3a158ff52"
   },
   {
     "url": "assets/js/34.d0c6c888.js",
     "revision": "2ca68fb621c3d5d731c3ded90241d498"
   },
   {
-    "url": "assets/js/35.a1b615b2.js",
-    "revision": "aff8c68fab928c2ff1c72ae691da797a"
+    "url": "assets/js/35.8bd8e55b.js",
+    "revision": "fdbd387f268a18a89bebcb9d9a71bdb3"
   },
   {
     "url": "assets/js/36.9735c60d.js",
@@ -186,12 +186,12 @@ self.__precacheManifest = [
     "revision": "d464a196b96ceb5c875fb9d4d60b4aef"
   },
   {
-    "url": "assets/js/9.ecf2fc66.js",
-    "revision": "70a701d4d1256b4db563edadff04131f"
+    "url": "assets/js/9.eec0972e.js",
+    "revision": "25bc8863bf7812e16599e48747dc922b"
   },
   {
-    "url": "assets/js/app.a038a729.js",
-    "revision": "9ac72aa3303442b889972061b757302c"
+    "url": "assets/js/app.c6bb8e39.js",
+    "revision": "4a67f5f13264c5729ce7609f24f413a0"
   },
   {
     "url": "assets/js/vendors~flowchart.79646067.js",
@@ -203,107 +203,107 @@ self.__precacheManifest = [
   },
   {
     "url": "batlote/index.html",
-    "revision": "37a17c52ecc56f7cc006707fc8ab764e"
+    "revision": "0983d70d496e0179afe652ea77ead417"
   },
   {
     "url": "batlote/tutorial/chap-01.html",
-    "revision": "498e8bb7e826b8782541aa17726dcc33"
+    "revision": "baef99b3766585ef1699f3968a05ca58"
   },
   {
     "url": "batlote/tutorial/chap-02.html",
-    "revision": "387d1ff9b1e2f9c03783d61aaa1bd0ed"
+    "revision": "0cc6ee42433665e52dc2abf9d87ad6d0"
   },
   {
     "url": "batlote/tutorial/chap-03.html",
-    "revision": "71025178845f5c961c670e5f3c5fedf1"
+    "revision": "085fe974e6d185626f656bcd87d05344"
   },
   {
     "url": "batlote/tutorial/chap-04.html",
-    "revision": "82988e34cb6387c7fa9216fc0902b4dc"
+    "revision": "1fe1a03b10848232c233f4ecf662ff8d"
   },
   {
     "url": "batlote/tutorial/chap-05.html",
-    "revision": "19c0dcd477091f72c043d5df51a47eca"
+    "revision": "629f5ebf6fbc63feb180b968ace31265"
   },
   {
     "url": "batlote/tutorial/chap-06.html",
-    "revision": "e672edee0802de45fbd43390caa674b2"
+    "revision": "0dbb35784ebebc831fc74b2251445b6a"
   },
   {
     "url": "batlote/tutorial/chap-07.html",
-    "revision": "b9b4c7d0c8634da635ba5a2edd487bcf"
+    "revision": "d7cbe167987921bf693671b00a3cdda3"
   },
   {
     "url": "batlote/tutorial/chap-08.html",
-    "revision": "2d48cbde32f97605c35c5547a3e7c3f7"
+    "revision": "abcff2e5734d3dd1afce66da71c58305"
   },
   {
     "url": "batlote/tutorial/chap-09.html",
-    "revision": "3ed49175dfdb40671ae347f5cda1b821"
+    "revision": "e1f7fd036b2c3148f7a4d41f07caba69"
   },
   {
     "url": "batlote/tutorial/chap-10.html",
-    "revision": "ac66aa9ef7ef2106cd4c7d20cb82aef1"
+    "revision": "80710064ad5ddecfa5c55829a1c07e39"
   },
   {
     "url": "batlote/tutorial/chap-11.html",
-    "revision": "6e66a0f5552d2f4fb080c49f4da401d5"
+    "revision": "f327b9821fb068fee16fce2679c21a0f"
   },
   {
     "url": "batlote/tutorial/chap-12.html",
-    "revision": "3d46090674a8338c8e220788903d6919"
+    "revision": "7bbccd2279be0ae5ca0a06eadb472f64"
   },
   {
     "url": "batlote/tutorial/chap-13.html",
-    "revision": "620c5bd2965fa9897b6f69c27f83162b"
+    "revision": "d496695c482c325d8ddd96853269a4d3"
   },
   {
     "url": "batlote/tutorial/chap-14.html",
-    "revision": "bedf2f235d56790377b7334cd9e14d12"
+    "revision": "e75f7a27b5edd7fafe91e4d7f3aacd92"
   },
   {
     "url": "batlote/tutorial/chap-15.html",
-    "revision": "29a20e1935a10cd92dd014498b63ea2d"
+    "revision": "161e24f48e5be67644a7007a75a5fb26"
   },
   {
     "url": "batlote/tutorial/chap-16.html",
-    "revision": "607360667ab2d48f33de28d25a35b0ce"
+    "revision": "207107b4b2c8d3e0cb8382cda452d52c"
   },
   {
     "url": "batlote/tutorial/chap-17.html",
-    "revision": "3076eea5ea94afa26f9d193037a60a25"
+    "revision": "7d67ec0005780ac962a16253f1a03789"
   },
   {
     "url": "batlote/tutorial/chap-18.html",
-    "revision": "ee09c38b06a601951f769330bac3baee"
+    "revision": "3d2971b664b56eef1889d883c7282883"
   },
   {
     "url": "batlote/tutorial/chap-19.html",
-    "revision": "631be6315c9d61dd729b14fe09bbd296"
+    "revision": "f9be87314fc032c2bec4ad370ffd0ef1"
   },
   {
     "url": "batlote/tutorial/chap-20.html",
-    "revision": "3cff514bb34ace1e04031aa484be8da2"
+    "revision": "0adfb2b01b1e68e3f31ff554186ee887"
   },
   {
     "url": "batlote/tutorial/chap-21.html",
-    "revision": "246afdc0efbaab37bf8fd5f513740d74"
+    "revision": "3d3ea18bd05c24517e2f0a551b121775"
   },
   {
     "url": "batlote/tutorial/chap-22.html",
-    "revision": "d7c5e1864b71332638683866d71c7790"
+    "revision": "4a8fd00611ea4879b56346eb379b19a7"
   },
   {
     "url": "batlote/tutorial/chap-23.html",
-    "revision": "87cc688936cdd95048b27a54fa9c5b43"
+    "revision": "03351173e87b38f29eddde4bcf6e88bb"
   },
   {
     "url": "batlote/tutorial/chap-24.html",
-    "revision": "915b142a1cee5694b470309d8772a9d5"
+    "revision": "bff9312a1e4a99daa85ab9d2bf7959e9"
   },
   {
     "url": "batlote/tutorial/chap-25.html",
-    "revision": "1fc6306b484454910413ba3f2112ca05"
+    "revision": "542c457e5eacea2166f6070fe1da720f"
   },
   {
     "url": "hero.png",
@@ -311,51 +311,79 @@ self.__precacheManifest = [
   },
   {
     "url": "icons/android-chrome-192x192.png",
-    "revision": "f130a0b70e386170cf6f011c0ca8c4f4"
+    "revision": "9a179cefe47da4d12f77b5fa7f40574a"
   },
   {
     "url": "icons/android-chrome-512x512.png",
-    "revision": "0ff1bc4d14e5c9abcacba7c600d97814"
+    "revision": "b74b0a12ddf8583e1fe78122f891843c"
   },
   {
     "url": "icons/apple-touch-icon-120x120.png",
-    "revision": "936d6e411cabd71f0e627011c3f18fe2"
+    "revision": "9a6086548224effb03fd23a017db9442"
   },
   {
     "url": "icons/apple-touch-icon-152x152.png",
-    "revision": "1a034e64d80905128113e5272a5ab95e"
+    "revision": "7dcf11a40b1b0c99e392d9921b5ca713"
   },
   {
     "url": "icons/apple-touch-icon-180x180.png",
-    "revision": "c43cd371a49ee4ca17ab3a60e72bdd51"
+    "revision": "9a179cefe47da4d12f77b5fa7f40574a"
   },
   {
     "url": "icons/apple-touch-icon-60x60.png",
-    "revision": "9a2b5c0f19de617685b7b5b42464e7db"
+    "revision": "9a6086548224effb03fd23a017db9442"
   },
   {
     "url": "icons/apple-touch-icon-76x76.png",
-    "revision": "af28d69d59284dd202aa55e57227b11b"
+    "revision": "9a6086548224effb03fd23a017db9442"
   },
   {
     "url": "icons/apple-touch-icon.png",
-    "revision": "66830ea6be8e7e94fb55df9f7b778f2e"
+    "revision": "7dcf11a40b1b0c99e392d9921b5ca713"
   },
   {
     "url": "icons/favicon-16x16.png",
-    "revision": "4bb1a55479d61843b89a2fdafa7849b3"
+    "revision": "4be3988c65da970d78a53f8f8552cca6"
   },
   {
     "url": "icons/favicon-32x32.png",
-    "revision": "98b614336d9a12cb3f7bedb001da6fca"
+    "revision": "7dcf11a40b1b0c99e392d9921b5ca713"
+  },
+  {
+    "url": "icons/logo-120.png",
+    "revision": "9a6086548224effb03fd23a017db9442"
+  },
+  {
+    "url": "icons/logo-144.png",
+    "revision": "4be3988c65da970d78a53f8f8552cca6"
+  },
+  {
+    "url": "icons/logo-152.png",
+    "revision": "7dcf11a40b1b0c99e392d9921b5ca713"
+  },
+  {
+    "url": "icons/logo-192.png",
+    "revision": "9a179cefe47da4d12f77b5fa7f40574a"
+  },
+  {
+    "url": "icons/logo-256.png",
+    "revision": "855ae63a627fc234bd95c72870631722"
+  },
+  {
+    "url": "icons/logo-384.png",
+    "revision": "25329d7d1332311e314e1b3ccd3f869a"
+  },
+  {
+    "url": "icons/logo-512.png",
+    "revision": "b74b0a12ddf8583e1fe78122f891843c"
   },
   {
     "url": "icons/msapplication-icon-144x144.png",
-    "revision": "b89032a4a5a1879f30ba05a13947f26f"
+    "revision": "4be3988c65da970d78a53f8f8552cca6"
   },
   {
     "url": "icons/mstile-150x150.png",
-    "revision": "058a3335d15a3eb84e7ae3707ba09620"
+    "revision": "7dcf11a40b1b0c99e392d9921b5ca713"
   },
   {
     "url": "icons/safari-pinned-tab.svg",
@@ -363,7 +391,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "d5ce6c667705c46b18868ef7bc8c7611"
+    "revision": "b6a8df6aec012cd69629263f97e3240c"
   },
   {
     "url": "line-numbers-desktop.png",
@@ -375,7 +403,7 @@ self.__precacheManifest = [
   },
   {
     "url": "logo.png",
-    "revision": "cf23526f451784ff137f161b8fe18d5a"
+    "revision": "9a6086548224effb03fd23a017db9442"
   },
   {
     "url": "plugin.png",
